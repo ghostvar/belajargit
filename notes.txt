@@ -1,0 +1,3 @@
+[RENCANA FITUR]
+ - Halaman login
+ - Halaman register
